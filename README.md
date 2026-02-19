@@ -94,6 +94,10 @@ streamlit run app.py
 
 ---
 
+## live demo
+https://drive.google.com/file/d/1iJ_tFQAd2gwgdAD7egJvXxdVfOQpZS5G/view?usp=drive_link
+
+
 ## 🙏 Acknowledgements
 
 * Google Gemini API

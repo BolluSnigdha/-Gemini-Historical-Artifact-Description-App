@@ -2,11 +2,6 @@
 
 # 📡 Gemini Historical Artifact Description App
 
-✨ **Generate rich, AI-powered descriptions for any historical artifact!**
-
-Upload an image, specify your prompt and word count, and get a custom, engaging artifact description powered by **Google Gemini AI**.
-
----
 
 ## 🌟 Features
 
